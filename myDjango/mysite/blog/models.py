@@ -18,3 +18,5 @@ class Post(models.Model):
 
     def __str__(self):
         return self.title
+
+# 74cd38b98750368c6fae58b215ab0030c2d35f26
